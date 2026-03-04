@@ -6,7 +6,9 @@ The official app only offers two hardcoded alert sounds — Siren and Tzeva Adom
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+[Click for video demo](assets/demo.mp4)
+
+<img src="assets/cover.png" alt="Demo" width="300">
 
 ## Supported platforms
 
