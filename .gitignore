@@ -1,5 +1,4 @@
 .DS_Store
 *.apk
 *.keystore
-.agents/
 skills-lock.json
