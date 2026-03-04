@@ -8,8 +8,6 @@ The official app only offers two hardcoded alert sounds — Siren and Tzeva Adom
 
 [![Demo](assets/cover.png)](https://github.com/kaminskypavel/oref-calm-alert/blob/main/assets/demo.mp4)
 
-https://github.com/kaminskypavel/oref-calm-alert/raw/main/assets/demo.mp4
-
 ## Supported platforms
 
 - **[Android](android/)** — working, uses APK sound replacement via ADB
